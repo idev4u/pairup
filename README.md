@@ -2081,8 +2081,10 @@ Which hade to create first. Second you have to add the database.rules like the f
 ```json
 {
   "rules": {
-    ".read": true,
-    ".write": true
+    "boards": {
+      ".read": true,
+      ".write": true
+    }
   }
 }
 ```
