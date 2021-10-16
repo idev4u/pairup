@@ -1,3 +1,5 @@
+TODO: Checkout the fork from https://github.com/eirini-forks/pairup
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
